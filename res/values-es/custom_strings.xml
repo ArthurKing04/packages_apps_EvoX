@@ -16,7 +16,7 @@
     <string name="extra_settings_title">Configraciones Evolution X</string>
 
     <!-- Categories -->
-	<string name="button_title">Botones</string>
+    <string name="button_title">Botones</string>
     <string name="status_bar_title">Barra de estado</string>
     <string name="quick_settings_title">Ajustes rapidos</string>
     <string name="navbar_title">Barra de navegacion</string>
@@ -26,7 +26,7 @@
     <string name="notification_settings_title">Notificaciones</string>
     <string name="general_tweaks_title">Ajustes generales</string>
     <string name="theme_main">Temas</string>
-	<string name="theme_main_summary">Colorealo!</string>
+    <string name="theme_main_summary">Colorealo!</string>
 
     <!-- General app strings -->
     <string name="general_category">General</string>
@@ -304,14 +304,6 @@
     <string name="lockdown_settings_title">Muestra opciones de bloqueoShow lockdown option</string>
     <!-- Text shown for the description of the lockdown option -->
     <string name="lockdown_settings_summary">Muestra opciones en el menu de apagado para desactivar Smart Lock, desbloqueo con lector de huellas y notificaciones en la pantalla de bloqueo</string>
-	
-
-
-
-
-
-
-
 
     <!-- Power Menu -->
     <string name="powermenu_screenshot">Captura de pantalla</string>
